@@ -1,0 +1,172 @@
+.top_container{
+    background-color:#E8F6EF;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.main_body{
+    background-color: #E8F6EF;
+    text-align: center;
+    
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    
+    
+
+}
+
+p{
+    font-family: 'Comfortaa', cursive;
+    
+    font-size: 20px;
+    color: #64C9CF;
+    padding-top: 10px;
+
+}
+
+h1{
+    font-family: 'WindSong', cursive;
+    color: #64C9CF;
+    font-size: 90px;
+    
+}
+
+h2{
+    font-family: 'Nunito', sans-serif;
+    color: #64C9CF;
+}
+
+h4{
+    font-family: 'Comfortaa', cursive;
+    color: #64C9CF;
+
+    
+    
+}
+
+.p_cv{
+    font-family: 'Nunito', sans-serif;
+}
+.pp_table{
+    padding-right: 30px;
+}
+.cv_h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+   
+}
+
+.top_cloud{
+    
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom_cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}    
+
+.pp{
+    align-items: left;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.hobbies {
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+
+}
+
+.cv_body{
+    background-color: #E8F6EF;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contact_body{
+    font-family: 'Nunito', sans-serif;
+    background-color: #E8F6EF;
+   
+}
+
+.form-control{
+    width: 50%;
+}
+
+.form-group{
+    width: 50%;
+}
+.resume_button{
+    background-color: #64C9CF;
+    border-color: #E8F6EF;
+    border-radius: 8px;
+    color: #E8F6EF;
+    padding: 14px 40px;
+    text-align: center;
+    text-decoration: #E8F6EF;
+    font-family:'Comfortaa', cursive; 
+   
+
+}
+.hobbies{
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+.contact_button {
+    border-color: #E8F6EF;
+    background-color: #64C9CF;
+    border-radius: 8px;
+    
+    padding: 14px 40px;
+    
+    text-align: center;
+    text-decoration: #E8F6EF;
+    font-family:'Comfortaa', cursive; ;
+    
+    
+}
+
+.table.table-bordered{
+    max-width: 50%;
+}
+
+.contact_button2{
+    border-color: #E8F6EF;
+    background-color: #64C9CF;
+    border-radius: 8px;
+    
+    padding: 10px 24px;
+    
+    text-align: center;
+    text-decoration: #E8F6EF;
+    font-family:'Comfortaa', cursive; ;
+
+    
+}
+#stable{
+    font-family: 'Nunito', sans-serif;
+}
+
+#ftable{
+    font-family: 'Nunito', sans-serif;
+}
+ 
+ 
+
